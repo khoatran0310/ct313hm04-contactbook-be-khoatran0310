@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@faker-js/faker": "^8.3.1",
     "eslint": "^8.54.0",
     "eslint-config-prettier": "^9.0.0",
     "nodemon": "^3.0.1",
@@ -19,6 +20,8 @@
     "axios": "^1.6.2",
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "knex": "^3.0.1",
+    "mysql": "^2.18.1"
   }
 }
